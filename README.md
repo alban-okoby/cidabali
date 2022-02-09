@@ -1,3 +1,3 @@
-# MONDABALI
+# CIDABALI
 
-Site de forte proposition de divers restaurants ainsi ques de plusieurs plats  
+Thème de l'application CIDABALI ainsi que que plusieurs autres Travaux comme (TheZoo, DevSource). 
