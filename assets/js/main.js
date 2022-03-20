@@ -39,7 +39,7 @@ var Affiche = document.getElementById("Compte");
 
 function Rebour() {
     var date1 = new Date();
-    var date2 = new Date("Feb 20 00:00:00 2022");
+    var date2 = new Date("Mar 30 00:00:00 2022");
     var sec = (date2 - date1) / 1000;
     var n = 24 * 3600;
     if (sec > 0) {
